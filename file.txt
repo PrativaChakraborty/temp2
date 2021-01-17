@@ -4,3 +4,8 @@ version-1
 >download
 >pause
 >play
+
+version-2
+>song speed
+>mixing songs
+>no ads
