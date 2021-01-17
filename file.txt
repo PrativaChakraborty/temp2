@@ -1,0 +1,6 @@
+spotify
+
+version-1
+>download
+>pause
+>play
